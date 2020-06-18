@@ -1,2 +1,3 @@
 def using_while 
-  levitation_force 
+  levitation_force = 6
+  
